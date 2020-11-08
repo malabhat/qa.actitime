@@ -16,7 +16,7 @@ public class LoginPage extends DriverScript {
 	@FindBy(xpath = "//div[@class = 'atLogoImg']") WebElement actitimeLogo;
 	
 //**************************************Page initialization******************************************
-	//PageFactory class in POM is to initialize the Page elements
+	//PageFactory class in POM is to initialize the current class elements
 	public LoginPage()
 	{
 		PageFactory.initElements(driver, this);
