@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30897" started-at="2020-11-08T05:55:34Z" finished-at="2020-11-08T05:56:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30897" started-at="2020-11-08T05:55:34Z" finished-at="2020-11-08T05:56:05Z">
+      <class name="com.acti.testcases.TC01_LoginTest">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.acti.testcases.TC01_LoginTest@754ba872]" name="preCondition" is-config="true" duration-ms="17578" started-at="2020-11-08T05:55:34Z" finished-at="2020-11-08T05:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testLoginFunction()[pri:0, instance:com.acti.testcases.TC01_LoginTest@754ba872]" name="testLoginFunction" duration-ms="3352" started-at="2020-11-08T05:55:52Z" finished-at="2020-11-08T05:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFunction -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.acti.testcases.TC01_LoginTest@754ba872]" name="postCondition" is-config="true" duration-ms="778" started-at="2020-11-08T05:55:55Z" finished-at="2020-11-08T05:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.acti.testcases.TC01_LoginTest@754ba872]" name="preCondition" is-config="true" duration-ms="7892" started-at="2020-11-08T05:55:56Z" finished-at="2020-11-08T05:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testVerifyLogoDisplayed()[pri:0, instance:com.acti.testcases.TC01_LoginTest@754ba872]" name="testVerifyLogoDisplayed" duration-ms="93" started-at="2020-11-08T05:56:04Z" finished-at="2020-11-08T05:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyLogoDisplayed -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.acti.testcases.TC01_LoginTest@754ba872]" name="postCondition" is-config="true" duration-ms="1183" started-at="2020-11-08T05:56:04Z" finished-at="2020-11-08T05:56:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti.testcases.TC01_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
